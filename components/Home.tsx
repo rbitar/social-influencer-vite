@@ -67,7 +67,7 @@ const Home = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-rose-300 to-pink-300 rounded-3xl rotate-6 opacity-20"></div>
                 <img 
-                  src="hero-portrait.jpg" 
+                  src="https://sb.frontend.co/storage/v1/object/public/app/projects/4910a553-c5aa-4181-9961-9d4dbfe4797f/hero-portrait.jpg" 
                   alt="Bella Rose - Beauty Influencer" 
                   className="relative w-full max-w-lg mx-auto rounded-3xl shadow-2xl"
                 />
@@ -89,7 +89,7 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <img 
-                src="content-creation.jpg" 
+                src="https://sb.frontend.co/storage/v1/object/public/app/projects/4910a553-c5aa-4181-9961-9d4dbfe4797f/content-creation.jpg" 
                 alt="Content Creation Setup" 
                 className="w-full rounded-2xl shadow-xl"
               />
@@ -177,7 +177,7 @@ const Home = () => {
           </div>
           <div className="relative">
             <img 
-              src="makeup-collection.jpg" 
+              src="https://sb.frontend.co/storage/v1/object/public/app/projects/4910a553-c5aa-4181-9961-9d4dbfe4797f/makeup-collection.jpg" 
               alt="Featured Makeup Collection" 
               className="w-full max-w-4xl mx-auto rounded-2xl shadow-2xl"
             />
